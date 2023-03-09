@@ -9,7 +9,7 @@ import cafeComLeite from '../assets/CafeComLeite.svg';
 import latte from '../assets/Latte.svg';
 import capuccino from '../assets/Capuccino.svg';
 import macchiato from '../assets/Macchiato.svg';
-import mocaccino from '../assets/mocaccino.svg';
+import mocaccino from '../assets/Mocaccino.svg';
 import chocolateQuente from '../assets/ChocolateQuente.svg';
 import cubano from '../assets/Cubano.svg';
 import havaiano from '../assets/Havaiano.svg';

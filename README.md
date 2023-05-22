@@ -1,24 +1,29 @@
-# Coffee-Delivery
-Desafio proposto pelo curso Ignite da Rocketseat com o objetivo de ganhar experiência com TypeScript + React
+## Coffee-Delivery - A TypeScript + React Project
 
-# Sobre o desafio
+This project is developed as part of the Ignite course by Rocketseat, focusing on gaining hands-on experience with TypeScript and React. The application simulates a shopping cart management system for a fictional coffee shop.
 
-Aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
+## Features
 
-- Listagem de produtos (cafés) disponíveis para compra
-- Adicionar uma quantidade específicas de itens no carrinho
-- Aumentar ou remover a quantidade de itens no carrinho
-- Formulário para o usuário preencher o seu endereço
-- Exibir o total de itens no carrinho no Header
-- Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
+The application provides the following features:
 
-# Conceitos revisados
+**Product Listing:** Displays the available coffee products for purchase.
 
-- useReduce
-- Estados
-- ContextAPI
-- LocalStorage
-- Imutabilidade do estado
-- Listas e chaves no ReactJS
-- Propriedades
-- Componentização
+**Adjust Item Quantity:** Users can add a specific number of items to the cart and adjust the quantity within the cart.
+
+**Address Form:** A form for users to fill in their shipping address.
+
+**Cart Summary:** The header displays the total number of items in the cart.
+
+**Total Cost Calculation:** The application calculates the total cost by multiplying the number of items in the cart by their prices.
+
+## Key Concepts Covered
+
+The project is built using modern web development concepts and practices, such as:
+
+**useReducer:** Advanced state management with the useReducer hook.
+
+**States:** Proper state handling in React components.
+
+**ContextAPI:** Using Context API for a more efficient state management.
+
+**LocalStorage:** Saving and retrieving data from the browser's local storage to maintain the cart information.

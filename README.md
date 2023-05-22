@@ -21,4 +21,4 @@ The project is built using modern web development concepts and practices, such a
 - ContextAPI: Using Context API for a more efficient state management.
 - LocalStorage: Saving and retrieving data from the browser's local storage to maintain the cart information.
 
-You can access and test yourself here: [Vercel](coffee-delivery-ochre.vercel.app)
+You can access and test yourself here: [Vercel](https://coffee-delivery-ochre.vercel.app)
